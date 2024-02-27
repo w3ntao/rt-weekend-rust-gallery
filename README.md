@@ -1,4 +1,4 @@
-Rendering samples of [pbrt-rust](https://github.com/w3ntao/pbrt-rust).
+Rendering samples of [rt-weekend-rust](https://github.com/w3ntao/rt-weekend-rust).
 
 Ray Tracing In One Weekend final scene with dragon (3840x2160, 1936 samples per pixel):
 ![](test_case_rt_weekend_dragon_pt_1936.png)
